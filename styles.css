@@ -2,6 +2,6 @@ body {
   background-color: #131111f5;
   min-height: 100vh;
 }
-div:target {
+.introduction:target {
   background-color: #00DDFF;
 }
