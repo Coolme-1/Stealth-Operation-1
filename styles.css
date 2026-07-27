@@ -1,7 +1,34 @@
 body {
-  background-color: #131111f5;
+  background-color: #1e1f28;
   min-height: 100vh;
+  color: ;
 }
-.introduction:target {
-  background-color: #00DDFF;
+
+nav ul {
+  display: flex;
+  padding: 0;
+  margin: 0 30px;
+  gap: 25px;
+  list-style: none;
+  background-color: #19191a;
+  border-radius: 30px;
+  border-bottom: 2px solid #111511;
+}
+
+nav ul li {
+  padding: 10px;
+  margin: auto;
+}
+
+nav ul li a:hover {
+  color: springgreen;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  color: #b9b9c7;
 }
