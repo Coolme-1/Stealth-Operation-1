@@ -8,6 +8,7 @@ body {
 nav ol {
   list-style: none;
   font-size: 18px;
+  text-align: center;
 }
 
 h1 {
