@@ -1,0 +1,36 @@
+* {
+  background-color: #241b1d;
+  font-family: "Caesar Dressing", system-ui, cursive;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 34px;
+  text-align: center;
+  color: black;
+}
+
+.images-portraits {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+img {
+  height: 300px;
+  width: 600px;
+}
+h4 {
+  margin: auto;
+  text-align: center;
+  color: #78a3d7e1;
+}
+
+figcaption {
+  outline: 2px solid #a6a5a2;
+  text-align: center;
+  padding: 10px auto;
+  margin: 15px 0;
+  border-radius: 15px;
+  color: #8f9ebb;
+}
