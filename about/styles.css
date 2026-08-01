@@ -1,1 +1,57 @@
+* {
+  font-family: "Caesar Dressing", system-ui, cursive;
+  font-size: 20px;
+  color: rgba(180, 136, 231, 0.726);
+}
 
+.information {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 34px;
+  color: #71c56a;
+}
+
+body {
+  background-color: #1d2929;
+}
+
+h4 {
+  display: block;
+  text-align: center;
+}
+
+img {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  outline: 3px solid rgba(228, 241, 105, 0.808);
+}
+
+.data {
+  text-align: left;
+  max-width: 800px;
+  max-height: auto;
+  margin: 0 auto;
+  outline: 3px solid rgba(229, 231, 100, 0.747);
+  padding: 8px 15px;
+  border-radius: 10px;
+  line-height: 1.45;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  margin: 0 0 15px 0;
+}
+
+.logo h4 {
+  margin: 0;
+  font-size: 1.2rem;
+}
